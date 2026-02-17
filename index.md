@@ -12,8 +12,7 @@ title: "Darren Manliclic"
 
 ## About Me
 
-I am a 4th-year IT student passionate about web development.  
-I enjoy creating clean and user-friendly digital experiences.
+I am a recent BSIT graduate with a strong passion for web development. I am dedicated to building clean, responsive, and user-friendly digital experiences that prioritize both functionality and design.
 
 ---
 
