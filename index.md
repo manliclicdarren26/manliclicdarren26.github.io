@@ -3,10 +3,32 @@ layout: default
 title: "Darren Manliclic"
 ---
 
-# Welcome to My Portfolio
+# Darren Manliclic
 
-Hi, I'm Darren Manliclic 👋  
-BSIT Graduate | Aspiring IT Specialist
+🎓 BSIT Student | UI/UX Design Aspirant  
+📍 STI College Muñoz-EDSA  
 
-This is my GitHub Page.
+---
 
+## About Me
+
+I am a 4th-year IT student passionate about web development.  
+I enjoy creating clean and user-friendly digital experiences.
+
+---
+
+## Skills
+
+- Java
+- C#
+- HTML
+- Android Studio
+- Microsoft Office
+- Google Workspace
+
+---
+
+## Contact
+
+📧 Email: darrenmanliclic@gmail.com 
+🔗 GitHub: https://github.com/manliclicdarren26
