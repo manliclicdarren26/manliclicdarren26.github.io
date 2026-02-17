@@ -5,8 +5,8 @@ title: "Darren Manliclic"
 
 # Welcome to My Portfolio
 
-Hi, I'm Darren 👋  
-BSIT Student | Aspiring UI/UX Designer  
+Hi, I'm Darren Manliclic 👋  
+BSIT Graduate | Aspiring IT Specialist
 
 This is my GitHub Page.
 
