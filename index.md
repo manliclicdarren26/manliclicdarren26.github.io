@@ -5,7 +5,7 @@ title: "Darren Manliclic"
 
 # Darren Manliclic
 
-🎓 BSIT Student | UI/UX Design Aspirant  
+🎓 BSIT Graduate | Aspiring IT Specialitt
 📍 STI College Muñoz-EDSA  
 
 ---
