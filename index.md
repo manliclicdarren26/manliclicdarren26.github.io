@@ -3,16 +3,10 @@ layout: default
 title: "Darren Manliclic"
 ---
 
-# Darren Manliclic
-
-🎓 BSIT Graduate | Aspiring IT Specialitt
-📍 STI College Muñoz-EDSA  
-
----
 
 ## About Me
 
-I am a recent BSIT graduate with a strong passion for web development. I am dedicated to building clean, responsive, and user-friendly digital experiences that prioritize both functionality and design.
+I am a recent BSIT graduate from STI College Munoz-EDSA with a strong passion for web development. I am dedicated to building clean, responsive, and user-friendly digital experiences that prioritize both functionality and design.
 
 ---
 
